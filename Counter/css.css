@@ -1,0 +1,21 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width:auto;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+}
+h1,p{
+    color: darkcyan;
+    padding: 0px;
+    font-size: 400%;
+}
+button{
+    color:darkcyan;
+    font-size: 150%;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+}
